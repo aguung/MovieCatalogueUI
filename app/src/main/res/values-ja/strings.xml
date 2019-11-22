@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">MovieCatalogueUI</string>
+
+    <string name="movies">映画</string>
+    <string name="tv">テレビ番組</string>
+    <string name="change_language_settings">言語設定を変更する</string>
+    <string name="todo">TODO</string>
+    <string name="title">タイトル</string>
+    <string name="show_date">日付を表示</string>
+    <string name="score">スコア</string>
+    <string name="description">説明</string>
+    <string name="detail">詳細</string>
+
+    <array name="data_image_movies">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+    <string-array name="data_title_movies">
+        <item>"A Star Is Born"</item>
+        <item>"Aquaman"</item>
+        <item>"Avengers: Infinity War"</item>
+        <item>"Bird Box"</item>
+        <item>"Bohemian Rhapsody"</item>
+        <item>"Bumblebee"</item>
+        <item>"Creed"</item>
+        <item>"Once Upon a Deadpool"</item>
+        <item>"How to Train Your Dragon: The Hidden World"</item>
+        <item>"Dragon Ball Super: Broly"</item>
+        <item>"Glass"</item>
+        <item>"Hunter Killer"</item>
+        <item>"Mary Poppins Returns"</item>
+        <item>"Mortal Engine"</item>
+        <item>"Preman Pensiun"</item>
+        <item>"Robin Hood"</item>
+        <item>"Spider-Man: Into the Spider-Verse"</item>
+        <item>"The Girl in the Spider's Web"</item>
+        <item>"The Mule"</item>
+        <item>"Venom"</item>
+    </string-array>
+    <string-array name="data_date_movies">
+        <item> 2018年10月3日</item>
+        <item> 2018年12月7日</item>
+        <item> 2018年4月25日</item>
+        <item> 2018年12月13日</item>
+        <item> 2018年10月24日</item>
+        <item> 2018年12月15日</item>
+        <item> 2015年11月25日</item>
+        <item> 2018年12月11日</item>
+        <item> 2019年1月3日</item>
+        <item> 2018年12月14日</item>
+        <item> 2019年1月16日</item>
+        <item> 2018年10月19日</item>
+        <item> 2018年12月13日</item>
+        <item> 2018年11月27日</item>
+        <item> 2019年1月17日</item>
+        <item> 2018年11月21日</item>
+        <item> 2018年12月6日</item>
+        <item> 2018年10月25日</item>
+        <item> 2018年12月14日</item>
+        <item> 2018年9月28日</item>
+    </string-array>
+    <string-array name="data_score_movies">
+        <item>7.5</item>
+        <item>6.8</item>
+        <item>8.3</item>
+        <item>7.0</item>
+        <item>8.0</item>
+        <item>6.5</item>
+        <item>7.3</item>
+        <item>6.9</item>
+        <item>7.7</item>
+        <item>7.5</item>
+        <item>6.6</item>
+        <item>6.4</item>
+        <item>6.6</item>
+        <item>6.0</item>
+        <item>6.5</item>
+        <item>5.8</item>
+        <item>8.4</item>
+        <item>6.0</item>
+        <item>6.6</item>
+        <item>6.6</item>
+    </string-array>
+    <string-array name="data_description_movies">
+        <item>「味のあるミュージシャンジャクソンメインは、苦労しているアーティストのアリーを発見し、恋に落ちます。歌手として大きくするという夢をあきらめようとしています-ジャックが彼女をスポットライトに誘います。ジャックは離陸し、ジャックは彼自身の内部の悪魔との進行中の戦いと戦うので、彼らの関係の個人的な側面は崩壊しています。」</item>
+        <item>「地球で最も高度な文明の本拠地となったアトランティスは、権力に飢えた王オームによって支配された水中王国です。オームは自由に使える広大な軍隊を持ち、残りの海洋の人々と地表世界を征服する予定です。彼の邪魔をしているのは、オームの半分人間、半分アトランティックの兄弟であり、王位継承者であるアーサーカレーです。」</item>
+        <item>「アベンジャーズとその同盟国は、一人のヒーローが扱えないほど大きな脅威から世界を保護し続けているため、宇宙の影から新たな危険が出現しました。サノス。銀河系の悪名高い専制君主、彼の目標は6つのインフィニティストーンすべて、想像を絶するパワーのアーティファクト、そしてそれらを使用して彼のねじれた意志をすべての現実に与えます。アベンジャーズが戦ったすべてがこの瞬間に至りました-地球と存在自体の運命はこれまで以上に不確かです。 </item>
+        <item>「不吉な目に見えない存在が社会の大部分を自殺に追い込んだ5年後、生存者と彼女の2人の子供は、安全に到達するために必死の入札をします。」</item> 
+        <item>「歌手フレディマーキュリー、ギタリストブライアンメイ、ドラマーロジャーテイラー、ベースギタリストジョンディーコンが1970年にロックンロールバンドクイーンを結成し、音楽界を席巻しました。ヒット曲はインスタントクラシックになります。ライフスタイルは制御不能になり始め、すぐに最大の課題に直面します。成功と過剰の中でバンドをまとめる方法を見つけることです。」</item>
+        <item>「1987年のランで、バンブルビーはカリフォルニアの小さなビーチタウンの廃品置き場に避難します。チャーリーは18歳になり、世界で自分の居場所を見つけようとする最中、バンブルビーを発見します。チャーリーが彼を復活させると、彼女はこれが普通の黄色のVWバグではないことをすぐに知ります。 "</item>
+        <item>「元世界ヘビー級王者のロッキーバルボアは、故友人であり、かつてのライバルであるアポロクリードの息子であるアドニスジョンソンのトレーナー兼指導者です。」</item>
+        <item>「誘Frされたフレッド・サベージは、デッドプール2のPG-13演出で、魔法、不思議、ゼロFに満ちたプリンセスブライド風の物語として耐えられます。</item>
+        <item>「Hiccupが平和なドラゴンのユートピアを作成するという夢を実現すると、Toothlessの手つかずのとらえどころのない仲間の発見は、Night Furyを引き離します。危険が家に広がり、Hiccupの村長としてのテストが行​​われると、ドラゴンとライダーの両方が彼らの種類を救うために不可能な決定を下す。」</item>
+        <item>「権力のトーナメントに続いて地球は平和です。宇宙にはまだ多くの強い人々がいまだに見えないことに気づき、悟空はずっと高い所に到達するための訓練を一日中過ごします。そしてある日、悟空とベジータはサイヤ人は惑星ベジータの破壊でほぼ完全に一掃されたはずだったので、この人は地球上で何をしているのでしょうか？運命は途方もない戦いに変わり、フリーザ（地獄から戻ってきた）でさえミックスに巻き込まれます。」</item>
+        <item>「エスカレートする一連の出会いの中で、元警備員のデイビッド・ダンは、彼の超自然的な能力を使って、24人の性格をもつ邪魔なケビン・ウェンデル・クラムを追跡します。両方の男性にとって重要な秘密。」</item>
+        <item>「USSアーカンソー州のキャプテングラスはロシアでクーデターが起きていることを発見したため、彼と彼の乗組員は戦争を防ぐために地上で活動しているエリートグループに加わりました。」</item>
+        <item>「大恐era時代のロンドンで、現在成長しているジェーンとマイケル・バンクスは、マイケルの3人の子供と一緒に、謎のメアリー・ポピンズが個人的な損失に続いて訪れます。彼女のユニークな魔法のスキルと友人の助けを借りてジャック、彼女は家族が彼らの人生に欠けている喜びと不思議を再発見するのを手伝います。」</item>
+        <item>「未来の何千年もの間、地球の都市は巨大な車輪で地球を歩き回り、資源の減少に苦しんでいます。これらの巨大な牽引都市の一つである古いロンドンで、トム・ナツワージーは予期せぬ出会いをしました彼の人生の道を永遠に変える不毛の神秘的な若い女性と。」</item>
+        <item>「3年後、刺客として引退したムスリハット（Epi Kusnandar）の事業に問題があります。思春期を迎え、少年たちが訪れ始めます。より大きな問題は、元部下同士の摩擦です。」</item>
+        <item>「戦争で鍛えられた十字軍と彼のムーアの指揮官は、腐敗した英国の王冠に対して大胆な反乱を起こしました。</item>
+        <item>「Miles Moralesは高校生とスパイダーマンの間で人生をジャグリングしています。Wilson "Kingpin" Fiskがスーパーコライダーを使用すると、Spider-Verseの人々がこの次元に運ばれます。</item>
+        <item>「スウェーデンのストックホルムでは、ハッカーLisbeth SalanderがコンピューターエンジニアのFrans Balderに雇われて、存在するのは危険すぎると思われるプログラムを検索します。」</item>
+        <item>「80代のアールストーンは一人で壊れ、運転するだけの仕事を提供されたために事業の差し押さえに直面しています。十分に簡単ですが、アールに知られていないので、サインオンしたばかりです。メキシコのカルテルのドラッグクーリエとして。彼は非常にうまくやっているので、彼の貨物は指数関数的に増加し、アールは強烈なDEAエージェントコリンベイツのレーダーにぶつかった。」</item>
+        <item>「調査ジャーナリストのエディ・ブロックは、スキャンダルに続いてカムバックを試みますが、暴力的で超強力なエイリアンの共生生物であるヴェノムのホストになります。独自の共生生物。」</item>
+    </string-array>
+
+    <array name="data_image_tv">
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_dark_material</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_fear_walking_dead</item>
+        <item>@drawable/poster_rick_morty</item>
+        <item>@drawable/poster_law_order</item>
+        <item>@drawable/poster_simpsons</item>
+        <item>@drawable/poster_see</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_greay_anotomy</item>
+    </array>
+    <string-array name="data_title_tv">
+        <item>"Supernatural"</item>
+        <item>"His Dark Materials "</item>
+        <item>"Arrow"</item>
+        <item>"Fear the Walking Dead"</item>
+        <item>"Rick and Morty"</item>
+        <item>"Law &amp; Order: Special Victims Unit"</item>
+        <item>"The Simpsons"</item>
+        <item>"See"</item>
+        <item>"The Flash"</item>
+        <item>"Grey's Anatomy"</item>
+    </string-array>
+    <string-array name="data_date_tv">
+        <item> 2005年9月13日</item>
+        <item> 2019年11月3日</item>
+        <item> 2012年10月10日</item>
+        <item> 2015年8月23日</item>
+        <item> 2013年12月2日</item>
+        <item> 1999年9月20日</item>
+        <item> 1989年12月17日</item>
+        <item> 2019年11月1日</item>
+        <item> 2014年10月7日</item>
+        <item> 2005年3月27日</item>
+    </string-array>
+    <string-array name="data_score_tv">
+        <item>7.4</item>
+        <item>8.3</item>
+        <item>5.8</item>
+        <item>6.3</item>
+        <item>8.6</item>
+        <item>6.5</item>
+        <item>7.2</item>
+        <item>7.6</item>
+        <item>6.7</item>
+        <item>6.4</item>
+    </string-array>
+    <string-array name="data_description_tv">
+        <item>" サムとディーン・ウィンチェスターは、母親を神秘的で悪魔的な超自然の力で失いました。その後、父親は彼らを兵士に育てました。彼は暗い隅々に住む超常的な悪について彼らに教えました。アメリカの裏道…そして彼は彼らにそれを殺す方法を教えた。今、ウィンチェスター兄弟は彼らの'67 Chevy Impalaで国を横断し、途中で遭遇するあらゆる種類の超自然的な脅威と戦っている。 "</item>
+        <item>" リラは、科学、神学、魔法が絡み合った平行宇宙に住んでいる孤児です。ライラが誘kidされた友人を探していると、盗まれた子供が関与する不吉な陰謀が明らかになり、ダストという謎の現象を理解する探求に変わります後に彼女は、世界間の窓を切ることができるナイフを持っている少年ウィルによって旅に参加します。リラが両親と彼女の予言された運命についての真実を知ると、二人の若者は天界との戦いに巻き込まれます。それは多くの世界に及びます。"</item>
+        <item>" 海でヨットが失われると、台無しになった億万長者プレイボーイオリバークイーンが行方不明になり、死んだと推定されます。 "</item>
+        <item>" ウォーキングデッド」に描かれた恐ろしい黙示録に変貌した世界はどのようなものだったのでしょうか？ロサンゼルスのこのスピンオフセットは、世界の終わりの始まりに直面する新しいキャラクターに続き、その質問に答えます。」"</item>
+        <item>" リックは精神的に不均衡だが科学的に才能のある老人で、最近家族と再会した。彼はほとんどの時間を、幼い孫モーティを宇宙や別の宇宙での危険な異様な冒険に巻き込んでいる。不安定な家庭生活、これらの出来事は家庭や学校でモーティに多くの苦痛を引き起こします。」"</item>
+        <item>" 刑事司法制度では、性的犯罪は特に凶悪なものと見なされます。ニューヨーク市では、これらの悪質な重罪を調査する献身的な探偵は、特別被害者ユニットとして知られるエリート部隊のメンバーです。 「"</item>
+        <item>" アメリカの平均的な町、スプリングフィールドを舞台にしたこのショーは、シンプソン一家の行動と日常の冒険に焦点を当てています。ホーマー、マージ、バート、リサ、マギー、そして数千人の仮想キャスト。このシリーズはポップカルチャーのアイコンであり、ゲストスターに何百人ものセレブを魅了しました。このショーは、政治、メディア、アメリカの生活全般に対する大胆不敵な風刺的な態度でも有名です。"</item>
+        <item>" ウイルスは人類を滅ぼしました。生き残った人は盲目となりました。数世紀後、双子が神話の能力を持って生まれたとき、父親は脅迫された女王から部族を守らなければなりません。」"</item>
+        <item>" 粒子加速器が異常な嵐を引き起こした後、CSI捜査官のバリー・アレンは雷に打たれ、com睡状態に陥ります。数ヶ月後、彼は超高速の力で目覚め、見えないようにセントラルシティを移動する能力を与えました守護天使バリーは、新たに発見した力に興奮していましたが、加速器の爆発の結果として作成された唯一の「メタ人間」ではなく、誰もが新しい力を善のために使用しているわけではないことに気付いてショックを受けています。今のところ、バリーが文字通り生きている最速の男であることを知っている親しい友人や仲間は数人だけですが、世界がバリー・アレンが何になったかを知るのはそう遠くないでしょう… Flash。」"</item>
+        <item>" シアトルのグレイスローン記念病院の医師グループの個人的および職業的生活を追っています。」"</item>
+    </string-array>
+</resources>
